@@ -6,8 +6,8 @@ Developed an end-to-end fraud analytics solution to identify suspicious financia
 
 The project combines data cleaning, fraud pattern detection, data modeling, and business intelligence reporting to uncover high-risk transactions, customer segments, and account types.
 
-![Fraud Overview Dashboard](dashboard_page1.png)
-![Customer Risk Analysis Dashboard](dashboard_page2.png)
+![Fraud Overview Dashboard](images/dashboard_page1.png)
+![Customer Risk Analysis Dashboard](images/dashboard_page2.png)
 
 ---
 

@@ -35,7 +35,7 @@ The project combines data cleaning, fraud pattern detection, data modeling, and 
 - Cleaned and transformed raw banking transaction data using Power Query.
 - Standardized data types and validated data quality.
 - Built a star-schema data model for reporting and analysis.
-- **Data Model Architecture:** Designed an efficient Star Schema by establishing clean 1-to-many relationships between centralized transactional fact tables and optimized dimension tables (`public_customers`, `public_addresses`, `Dim Calendar`).
+- **Data Model Architecture:** Designed an efficient Star Schema by establishing clean 1-to-many relationships between centralized transactional fact tables and optimized dimension tables (public_customers, public_addresses, Dim Calendar).
 
 ---
 
@@ -60,7 +60,6 @@ Detected structured deposits designed to avoid regulatory reporting thresholds.
 
 ## Dashboard Features
 
-- Executive Summary Dashboard
 - Fraud Transaction Analysis
 - Fraud Rate Analysis
 - Fraud Amount Analysis

@@ -6,7 +6,14 @@ Developed an end-to-end fraud analytics solution to identify suspicious financia
 
 The project combines data cleaning, fraud pattern detection, data modeling, and business intelligence reporting to uncover high-risk transactions, customer segments, and account types.
 
+---
+
+## 📊 Dashboard Screenshots
+
+### 1. Fraud Overview Dashboard
 ![Fraud Overview Dashboard](images/dashboard_page1.png)
+
+### 2. Customer Risk Analysis Dashboard
 ![Customer Risk Analysis Dashboard](images/dashboard_page2.png)
 
 ---
@@ -98,4 +105,16 @@ This solution enables financial institutions to proactively identify suspicious 
 - Business Intelligence
 - Data Visualization
 
+---
+
+## Files Included
+- Power BI Dashboard (.pbix)
+- SQL Queries (.sql)
+- Dashboard Screenshots (.png)
+- Documentation (README.md)
+
+---
+
+## Author
+Prabha R
 ---
